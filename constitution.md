@@ -1,4 +1,4 @@
-# CONSTITUTION of AnarchapulcoDAC
+# CONSTITUTION of FreeDAC
 
 [A decentralized autonomous community]
 
@@ -8,7 +8,7 @@ In this Constitution, if not inconsistent with the context, the words and expres
 
 || Expression: | Meaning: |
 |-|-----------|---------|
-| 1.1 | **Registration** |    means the process prescribed by the DAC, pursuant to and/or in accordance with the Constitution, whereby DAC Tokens are activated or enabled through the use of prescribed software, as a method by which, and for the purposes of, accepting a DAC Token and constituting the holder thereof as a Member of the DAC and subject to the Constitution and the Terms and Conditions, to the extent of such DAC Tokens held from time to time |
+| 1.1 | **Registration** |    means the process prescribed by FreeDAC, pursuant to and/or in accordance with the Constitution, whereby DAC Tokens are activated or enabled through the use of prescribed software, as a method by which, and for the purposes of, accepting a DAC Token and constituting the holder thereof as a Member of the DAC and subject to the Constitution and the Terms and Conditions, to the extent of such DAC Tokens held from time to time |
 | 1.2 | **Blockchain** | or "distributed ledger technology" means a consensus of replicated, shared and synchronized digital data geographically spread across multiple sites, countries and institutions |
 | 1.3 | **Constitution** | This Constitution as originally framed or as from time to time amended, restated, supplemented or otherwise modified in accordance with the Constitution |
 | 1.4 | **Custodian** | means a member of the Custodian Board |
